@@ -1,1 +1,5 @@
-hola soy brandon13
+<<<<<<< HEAD
+hola soy brandon13 jeje
+=======
+ola esta ya no es mi bio att jinxbb y comidifique otro archivo
+>>>>>>> devjinx
